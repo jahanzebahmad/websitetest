@@ -1,0 +1,90 @@
+
+body {
+
+background: url(https://v1.thebureauinvestigates.com/wp-content/uploads/2012/08/shutterstock_75121846.jpg);
+background-repeat: repeat;
+background-size: 500px 500px;
+
+}
+
+header, nav, article, footer {
+	border: 5px solid blue;
+	margin: 5px;
+	padding: 5px;
+
+}
+header {
+height:50px;
+padding: 20px;
+background-color: darkblue;
+color: blue;
+}
+nav {
+width: 150px;
+float: left;
+height: 400px;
+color: white;
+background-color: darkblue;
+}
+
+article{
+background-color: lightblue;
+margin-left: 180px;
+margin-top: 10px;
+}
+footer {
+	height: 30px;
+	text-align: center;
+	clear: both;
+	color: white;
+	background: darkblue;
+}
+h1 {
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+}
+h3 {
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+}
+p {
+		
+		padding: 10px;
+		color: blue;
+		text-align: justify;
+		text-indent: 50px;
+
+		}
+.imgpadding {
+	padding: 10px;
+}
+#myimg {
+	height:300px; width:200px;
+	-ms-transform: rotate(18deg);
+	-webkit-transform: rotate(18deg);
+	transform: rotate(18deg); }
+
+
+td, th {
+	border:1px solid blue;
+	color: blue;
+	background-color: lightblue;
+}
+li {
+color: blue;
+background-color: lightblue;
+border:10px solid blue;
+}
+
+h2 {
+	color: darkblue;
+}
+caption {
+	text-decoration: underline;
+	color: white;
+}
+ #labs {
+	text-align: center:;
+}
